@@ -1,6 +1,6 @@
 Hi! 👋🏻
 
-I’m Chris Buckley, a Principal Architect for [Answer Digital](https://answerdigital.com/).
+I’m Chris Buckley, a Principal Consultant for [Answer Digital](https://answerdigital.com/).
 
 # Projects
 
