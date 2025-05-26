@@ -1,6 +1,6 @@
 Hi! 👋🏻
 
-I’m Chris Buckley, a Principal Consultant for [Answer Digital](https://answerdigital.com/).
+I’m Chris Buckley, and I’m Head of Engineering at [SmartSearch](https://www.smartsearch.com/).
 
 # Projects
 
