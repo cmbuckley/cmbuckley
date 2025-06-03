@@ -12,4 +12,4 @@ I also spend some time working on [Home Assistant](https://www.home-assistant.io
 
 # Employment
 
-Answer Digital are a digital engineering and consultancy organisation that bring deep sector expertise to help solve problems for our clients. We are a tech-agnostic business who provide a range of digital solutions in health, financial and commercial sectors.
+SmartSearch provides a market-leading compliance solution, enabling users across the US and EU to comply with the latest Anti Money Laundering regulations.
