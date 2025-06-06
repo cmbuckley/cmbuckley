@@ -12,4 +12,5 @@ I also spend some time working on [Home Assistant](https://www.home-assistant.io
 
 # Employment
 
-SmartSearch provides a market-leading compliance solution, enabling users across the US and EU to comply with the latest Anti Money Laundering regulations.
+SmartSearch is a leading UK provider of Anti-Money Laundering (AML) and digital compliance software, supporting over 7,000 clients and 65,000 users
+in fulfilling their AML, Customer Due Diligence (CDD), and Know Your Customer (KYC) compliance obligations.
